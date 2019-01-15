@@ -29,3 +29,8 @@ Each branch represents a certain tutorial.
 Happy Todo-ing!
 
 ![Todo-aholic](http://i.imgur.com/ikyqgrn.png)
+
+## UI component testing
+
+1. run `npm run start:proxy`
+1. run `npm test:component`
